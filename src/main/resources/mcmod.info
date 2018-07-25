@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "wilklib",
+  "name": "WilkLib",
+  "description": "CJWilk's Library and Dependency Mod for all of his other mods.",
+  "version": "1.12.2-0.0.1",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["CJWilk"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
