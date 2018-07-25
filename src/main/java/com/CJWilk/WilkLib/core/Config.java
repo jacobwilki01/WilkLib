@@ -1,4 +1,4 @@
-package main.java.CJWilk.WilkLib.core;
+package com.CJWilk.WilkLib.core;
 
 import org.apache.logging.log4j.Level;
 

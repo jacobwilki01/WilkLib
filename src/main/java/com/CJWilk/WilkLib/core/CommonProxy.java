@@ -1,9 +1,10 @@
-package main.java.CJWilk.WilkLib.core;
+package com.CJWilk.WilkLib.core;
 
 import java.io.File;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemBlock;
 import net.minecraftforge.common.config.Configuration;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;

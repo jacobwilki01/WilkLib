@@ -1,4 +1,4 @@
-package main.java.CJWilk.WilkLib.core;
+package com.CJWilk.WilkLib.core;
 
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.fml.common.Mod;

@@ -1,4 +1,4 @@
-package main.java.CJWilk.WilkLib.core;
+package com.CJWilk.WilkLib.core;
 
 import org.apache.logging.log4j.Logger;
 
@@ -9,7 +9,7 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 @Mod(modid = CoreData.MODID, name = CoreData.MODNAME, version = CoreData.MODVERSION, useMetadata = true)
-public class CoreData<proxy> {
+public class CoreData {
 	//Mod Information
 	public static final String MODID = "wilklib";
 	public static final String MODNAME = "WilkLib";
